@@ -1,5 +1,6 @@
-byconity/byconity
-byconity/byconity:0.4.1
+metersphere/metersphere-ce-allinone
+#byconity/byconity
+#byconity/byconity:0.4.1
 #nginx
 #bitnami/kafka
 #bitnami/zookeeper
