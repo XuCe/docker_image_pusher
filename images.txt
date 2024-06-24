@@ -1,4 +1,6 @@
-metersphere/metersphere-ce-allinone
+bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+foundationdb/foundationdb:7.1.24
+#metersphere/metersphere-ce-allinone
 #byconity/byconity
 #byconity/byconity:0.4.1
 #nginx
