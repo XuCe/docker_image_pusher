@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-bitnami/kafka:3.7.1
+canal/canal-server
+#bitnami/kafka:3.7.1
 #byconity/byconity:0.3.2
 #qingm/ffmpeg-jdk8:v1
 #alpine/git
