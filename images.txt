@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-minio/minio
+dadoonet/fscrawler
+#minio/minio
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
 #bitnami/kafka:3.7.1
