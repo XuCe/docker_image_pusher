@@ -1,5 +1,7 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-dadoonet/fscrawler
+#elasticsearch:7.17.12
+#kibana:7.17.12
+#dadoonet/fscrawler
 #minio/minio
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
