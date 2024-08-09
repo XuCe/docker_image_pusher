@@ -1,12 +1,13 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-elasticsearch:7.17.12
-kibana:7.17.12
+
+#elasticsearch:7.17.12
+#kibana:7.17.12
 #dadoonet/fscrawler
 #minio/minio
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
 #bitnami/kafka:3.7.1
-#byconity/byconity:0.3.2
+byconity/byconity:1.0.0-rc2
 #qingm/ffmpeg-jdk8:v1
 #alpine/git
 #bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
