@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
 
+openjdk:17-jdk-alpine
 #elasticsearch:7.17.12
 #kibana:7.17.12
 #dadoonet/fscrawler
