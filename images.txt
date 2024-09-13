@@ -1,5 +1,5 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-nginx:alpine
+--platform=linux/arm64 nginx:alpine
 #qingm/ffmpeg-jdk17:v1
 #openjdk:17-jdk-oraclelinux8
 #openjdk:17-jdk-alpine
