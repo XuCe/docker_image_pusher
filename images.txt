@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-qingm/ffmpeg-jdk17:v1
+nginx:alpine
+#qingm/ffmpeg-jdk17:v1
 #openjdk:17-jdk-oraclelinux8
 #openjdk:17-jdk-alpine
 #elasticsearch:7.17.12
