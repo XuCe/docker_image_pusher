@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-apache/streampark:dev
+nginx:alpine
+#apache/streampark:dev
 #--platform=linux/arm64 nginx:alpine
 #qingm/ffmpeg-jdk17:v1
 #openjdk:17-jdk-oraclelinux8
