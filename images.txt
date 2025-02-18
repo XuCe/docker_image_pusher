@@ -1,6 +1,4 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-langgenius/dify-web:1.0.0
-langgenius/dify-api:1.0.0
 #nginx:alpine
 #apache/streampark:dev
 #python:3.9
