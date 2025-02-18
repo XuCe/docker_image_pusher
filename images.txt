@@ -1,7 +1,9 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
+langgenius/dify-web:1.0.0
+langgenius/dify-api:1.0.0
 #nginx:alpine
 #apache/streampark:dev
-python:3.9
+#python:3.9
 #--platform=linux/arm64 nginx:alpine
 #--platform=linux/arm64 python:3.9
 #qingm/ffmpeg-jdk17:v1
