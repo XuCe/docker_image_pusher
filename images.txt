@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-nobodyiam/apollo-quick-start
+postgres:12-alpine
+#nobodyiam/apollo-quick-start
 #nginx:alpine
 #apache/streampark:dev
 #python:3.9
