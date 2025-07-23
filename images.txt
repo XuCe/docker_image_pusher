@@ -5,6 +5,7 @@
 #apache/streampark:dev
 #python:3.9
 #mysql:8.0.40
+mysql:8.2.0
 #186184848/documentserver
 #--platform=linux/arm64 nginx:alpine
 #--platform=linux/arm64 python:3.9
@@ -14,8 +15,8 @@
 #elasticsearch:7.17.12
 #kibana:7.17.12
 #dadoonet/fscrawler
-eclipse-mosquitto
-eclipse-mosquitto:openssl
+#eclipse-mosquitto
+#eclipse-mosquitto:openssl
 #minio/minio:RELEASE.2025-04-22T22-12-26Z-cpuv1
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
