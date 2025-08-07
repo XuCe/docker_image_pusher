@@ -2,10 +2,11 @@
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
 #nginx:alpine
+node:22.12.0
 #apache/streampark:dev
 #python:3.9
 #mysql:8.0.40
-mysql:8.2.0
+#mysql:8.2.0
 #186184848/documentserver
 #--platform=linux/arm64 nginx:alpine
 #--platform=linux/arm64 python:3.9
