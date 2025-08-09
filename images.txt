@@ -2,7 +2,8 @@
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
 #nginx:alpine
-node:22.12.0
+#node:22.12.0
+lejianwen/rustdesk-server-s6
 #apache/streampark:dev
 #python:3.9
 #mysql:8.0.40
