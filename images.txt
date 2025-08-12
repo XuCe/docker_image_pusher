@@ -1,9 +1,10 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
+bitnami/phpmyadmin
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
 #nginx:alpine
 #node:22.12.0
-lejianwen/rustdesk-server-s6
+#lejianwen/rustdesk-server-s6
 #apache/streampark:dev
 #python:3.9
 #mysql:8.0.40
