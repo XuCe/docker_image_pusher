@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-bitnami/phpmyadmin
+redis
+#bitnami/phpmyadmin
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
 #nginx:alpine
@@ -43,7 +44,6 @@ bitnami/phpmyadmin
 #emqx/emqx
 #mongo
 #postgres:alpine
-#redis
 #python
 #python:alpine
 #python:3.8
