@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-redis
+postgis/postgis:17-3.5-alpine
+#redis
 #bitnami/phpmyadmin
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
