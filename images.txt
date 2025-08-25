@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-postgis/postgis:17-3.5-alpine
+#postgis/postgis:17-3.5-alpine
+mysql:lts
 #redis
 #bitnami/phpmyadmin
 #postgres:12-alpine
