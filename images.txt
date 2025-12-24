@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
-cr.weaviate.io/semitechnologies/weaviate:1.34.0
+#cr.weaviate.io/semitechnologies/weaviate:1.34.0
+jeessy/ddns-go
 #openjdk:26-ea-17-oraclelinux8
 #openjdk:17-jdk-alpine
 #qingm/cpukeep
