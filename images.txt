@@ -11,7 +11,7 @@
 #mysql:lts
 #--platform=linux/arm64 mysql:lts
 #redis
---platform=linux/arm64 redis:lts
+--platform=linux/arm64 redis
 #bitnami/phpmyadmin
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
