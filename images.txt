@@ -11,7 +11,7 @@
 #mysql:lts
 #--platform=linux/arm64 mysql:lts
 #redis
---platform=linux/arm64 redis
+#--platform=linux/arm64 redis
 #bitnami/phpmyadmin
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
@@ -22,6 +22,7 @@
 #apache/streampark:dev
 #python:3.9
 #mysql:8.0.40
+mysql:8.0.43
 #mysql:8.2.0
 #186184848/documentserver
 #--platform=linux/arm64 nginx:alpine
