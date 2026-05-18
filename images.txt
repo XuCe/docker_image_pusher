@@ -22,7 +22,7 @@
 #apache/streampark:dev
 #python:3.9
 #mysql:8.0.40
-mysql:8.0.43
+#mysql:8.0.43
 #mysql:8.2.0
 #186184848/documentserver
 #--platform=linux/arm64 nginx:alpine
@@ -35,6 +35,7 @@ mysql:8.0.43
 #dadoonet/fscrawler
 #eclipse-mosquitto
 #eclipse-mosquitto:openssl
+eclipse-mosquitto:2.1.2-alpine
 #minio/minio:RELEASE.2025-04-22T22-12-26Z-cpuv1
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
