@@ -17,6 +17,7 @@
 #nobodyiam/apollo-quick-start
 #nginx:alpine
 #nginx:1.29.2
+nginx:1.31.0-alpine
 #node:22.12.0
 #lejianwen/rustdesk-server-s6
 #apache/streampark:dev
@@ -35,7 +36,7 @@
 #dadoonet/fscrawler
 #eclipse-mosquitto
 #eclipse-mosquitto:openssl
-eclipse-mosquitto:2.1.2-alpine
+#eclipse-mosquitto:2.1.2-alpine
 #minio/minio:RELEASE.2025-04-22T22-12-26Z-cpuv1
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
