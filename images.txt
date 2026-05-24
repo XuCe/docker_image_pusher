@@ -77,3 +77,10 @@
 #powerdns/pdns-auth-49
 #powerdns/pdns-recursor-51
 #powerdnsadmin/pda-legacy
+docker:27
+docker:27-dind
+gradle:8.14-jdk21
+eclipse-temurin:21-jre-jammy
+ubuntu:22.04
+node:22-slim
+nginx:stable-alpine
