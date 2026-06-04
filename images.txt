@@ -11,6 +11,7 @@
 #mysql:lts
 #--platform=linux/arm64 mysql:lts
 #redis
+redis:8.8.0
 #--platform=linux/arm64 redis
 #bitnami/phpmyadmin
 #postgres:12-alpine
@@ -59,8 +60,8 @@
 #openjdk:8
 #emqx/emqx
 #emqx/emqx:5.3.0
-ossrs/srs
-ossrs/srs:v6.0.184
+#ossrs/srs
+#ossrs/srs:v6.0.184
 #mongo
 #postgres:alpine
 #python
