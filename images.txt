@@ -11,7 +11,7 @@
 #mysql:lts
 #--platform=linux/arm64 mysql:lts
 #redis
-redis:8.8.0
+#redis:8.8.0
 #--platform=linux/arm64 redis
 #bitnami/phpmyadmin
 #postgres:12-alpine
@@ -41,7 +41,7 @@ redis:8.8.0
 #minio/minio:RELEASE.2025-04-22T22-12-26Z-cpuv1
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
-#bitnami/kafka:3.7.1
+bitnami/kafka:4.0.0
 #byconity/byconity:1.0.0-rc2
 #qingm/ffmpeg-jdk8:v1
 #alpine/git
