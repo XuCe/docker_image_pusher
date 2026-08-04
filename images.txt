@@ -13,6 +13,7 @@
 #redis
 #redis:8.8.0
 #--platform=linux/arm64 redis
+node:22-alpine
 #bitnami/phpmyadmin
 #postgres:12-alpine
 #nobodyiam/apollo-quick-start
@@ -41,7 +42,7 @@
 #minio/minio:RELEASE.2025-04-22T22-12-26Z-cpuv1
 #ygqygq2/fastdfs-nginx
 #canal/canal-server
-bitnamilegacy/kafka:4.0.0
+#bitnamilegacy/kafka:4.0.0
 #byconity/byconity:1.0.0-rc2
 #qingm/ffmpeg-jdk8:v1
 #alpine/git
