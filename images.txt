@@ -4,7 +4,8 @@
 #openjdk:26-ea-17-oraclelinux8
 #--platform=linux/arm64 openjdk:26-ea-17-jdk-oraclelinux8
 #openjdk:26-ea-21-jdk-oraclelinux9
-gradle:8.14.0-jdk17
+eclipse-temurin:17-jre-jammy
+#gradle:8.14.0-jdk17
 #openjdk:17-jdk-alpine
 #qingm/cpukeep
 #mcr.microsoft.com/dotnet/aspnet:3.1
