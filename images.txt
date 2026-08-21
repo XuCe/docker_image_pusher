@@ -4,7 +4,7 @@
 #openjdk:26-ea-17-oraclelinux8
 #--platform=linux/arm64 openjdk:26-ea-17-jdk-oraclelinux8
 #openjdk:26-ea-21-jdk-oraclelinux9
-eclipse-temurin:17-jre-jammy
+#eclipse-temurin:17-jre-jammy
 #gradle:8.14.0-jdk17
 #openjdk:17-jdk-alpine
 #qingm/cpukeep
@@ -22,6 +22,7 @@ eclipse-temurin:17-jre-jammy
 #nginx:alpine
 #nginx:1.29.2
 #nginx:1.31.0-alpine
+nginx:1.31.4-alpine
 #node:22.12.0
 #lejianwen/rustdesk-server-s6
 #apache/streampark:dev
