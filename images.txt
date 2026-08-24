@@ -10,7 +10,8 @@
 #qingm/cpukeep
 #mcr.microsoft.com/dotnet/aspnet:3.1
 #postgis/postgis:17-3.5-alpine
-#mysql:lts
+mysql:lts
+mysql:8.4.6
 #--platform=linux/arm64 mysql:lts
 #redis
 #redis:8.8.0
@@ -23,7 +24,7 @@
 #nginx:1.29.2
 #nginx:1.31.0-alpine
 #nginx:1.31.4-alpine
-node:24-alpine
+#node:24-alpine
 #node:22.12.0
 #lejianwen/rustdesk-server-s6
 #apache/streampark:dev
