@@ -10,8 +10,8 @@
 #qingm/cpukeep
 #mcr.microsoft.com/dotnet/aspnet:3.1
 #postgis/postgis:17-3.5-alpine
-mysql:lts
-mysql:8.4.6
+#mysql:lts
+#mysql:8.4.6
 #--platform=linux/arm64 mysql:lts
 #redis
 #redis:8.8.0
@@ -94,3 +94,4 @@ mysql:8.4.6
 #ubuntu:22.04
 #node:22-slim
 #nginx:stable-alpine
+opendronemap/nodeodm:gpu
