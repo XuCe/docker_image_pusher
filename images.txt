@@ -95,4 +95,6 @@
 #node:22-slim
 #nginx:stable-alpine
 #opendronemap/nodeodm:gpu
-python:3.12-slim
+#python:3.12-slim
+golang:1.27
+node:22
