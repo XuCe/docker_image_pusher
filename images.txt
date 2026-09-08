@@ -96,5 +96,6 @@
 #nginx:stable-alpine
 #opendronemap/nodeodm:gpu
 #python:3.12-slim
-golang:1.27
-node:22
+#golang:1.27
+#node:22
+mcr.microsoft.com/mssql/server:2022-latest
