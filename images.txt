@@ -102,8 +102,9 @@
 #jumpserver/koko:v3.10.23
 #jumpserver/lion:v3.10.23
 #jumpserver/magnus:v3.10.23
-node:22.12.0-alpine
-quay.io/coreos/etcd:v3.5.18
-minio/minio:RELEASE.2024-09-22T00-33-43Z
-milvusdb/milvus:v2.4.17
-zilliz/attu:v2.4
+#node:22.12.0-alpine
+#quay.io/coreos/etcd:v3.5.18
+#milvusdb/milvus:v2.4.17
+#zilliz/attu:v2.4
+quay.io/minio/minio:RELEASE.2024-09-22T00-33-43Z
+gradle:8.14.3-jdk17
