@@ -1,7 +1,7 @@
 #registry.cn-hangzhou.aliyuncs.com/qingmou/
 #cr.weaviate.io/semitechnologies/weaviate:1.34.0
 #jeessy/ddns-go
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
 #openjdk:26-ea-17-oraclelinux8
 #--platform=linux/arm64 openjdk:26-ea-17-jdk-oraclelinux8
 #openjdk:26-ea-21-jdk-oraclelinux9
@@ -110,5 +110,6 @@ zlmediakit/zlmediakit:master
 #milvusdb/milvus:v2.4.17
 #zilliz/attu:v2.4
 #quay.io/minio/minio:RELEASE.2024-09-22T00-33-43Z
+quay.io/minio/minio:RELEASE.2025-09-06T17-38-46Z
 #gradle:8.14.3-jdk17
 #milvusdb/milvus:v2.4.17
