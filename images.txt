@@ -26,6 +26,7 @@
 #nginx:1.31.0-alpine
 #nginx:1.31.4-alpine
 #nginx:1.31.6-alpine
+#nginx:1.31.9-alpine
 #--platform=linux/arm64 nginx:1.31.6-alpine
 #node:24-alpine
 #node:22.12.0
